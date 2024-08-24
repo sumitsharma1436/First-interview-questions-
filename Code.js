@@ -23,3 +23,18 @@
 
 // 3) Write a function that returns the Fibonacci sequence up to a given number n.
 
+function app(n)
+{
+ let num1=0;
+ let num2=1;
+ let res;
+console.log(first)
+  for(let i=0;i<=n;i++)
+ {
+    sum=num1+num2;//1,2,3,5,8..
+    num1=num2;//1,1,2,3,5..
+    num2=sum;//1,2,3,5,8..
+   console.log(sum)
+}
+}
+app(5)
