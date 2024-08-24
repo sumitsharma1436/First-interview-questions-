@@ -1,4 +1,4 @@
-
+hu
 // 1) Write a function to reverse a string in JavaScript.
 
 // function app(str) {
@@ -23,18 +23,29 @@
 
 // 3) Write a function that returns the Fibonacci sequence up to a given number n.
 
-function app(n)
-{
- let num1=0;
- let num2=1;
- let res;
-console.log(first)
-  for(let i=0;i<=n;i++)
- {
-    sum=num1+num2;//1,2,3,5,8..
-    num1=num2;//1,1,2,3,5..
-    num2=sum;//1,2,3,5,8..
-   console.log(sum)
-}
-}
-app(5)
+//function app(n)
+//{
+ //let num1=0;
+ //let num2=1;
+ //let res;
+//console.log(first)
+ // for(let i=0;i<=n;i++)
+ //{
+   // sum=num1+num2;//1,2,3,5,8..
+   // num1=num2;//1,1,2,3,5..
+   // num2=sum;//1,2,3,5,8..
+  // console.log(sum)
+//}
+//}
+//app(5)
+
+//find the largest number in an array?
+//function app ()
+
+//{
+  const arr=[2,4,3,6]
+//  console.log(Math.min(...arr))
+  // let res=arr.sort((a,b)=>a+b)
+  // console.log(res[arr.length-1])
+//}
+//app()
