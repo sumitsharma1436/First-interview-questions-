@@ -49,3 +49,22 @@ hu
   // console.log(res[arr.length-1])
 //}
 //app()
+
+//Write a function to remove duplicates from an array.
+//function app ()
+//{
+//const arr=[1,2,4,2,5,4,3,5];
+//let sor=arr.sort((a,b)=>a-b)
+//console.log(arr)
+//const arr1=[]
+ // console.log(...new Set(arr))
+//for(let i=0;i<arr.length;i++)
+//{
+//if(arr[i]===arr[i+1]) 
+//{
+//console.log(arr[i])//arr1.push(arr[i])
+//}
+//}
+//console.log(arr1)
+//}
+//app()
