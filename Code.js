@@ -39,7 +39,7 @@ hu
 //}
 //app(5)
 
-//find the largest number in an array?
+//4) find the largest number in an array?
 //function app ()
 
 //{
@@ -50,7 +50,7 @@ hu
 //}
 //app()
 
-//Write a function to remove duplicates from an array.
+//5) Write a function to remove duplicates from an array.
 //function app ()
 //{
 //const arr=[1,2,4,2,5,4,3,5];
@@ -68,3 +68,31 @@ hu
 //console.log(arr1)
 //}
 //app()
+
+//6) How can you flatten a nested array in JavaScript?
+
+//function app(arr)
+//{
+   //  Normal method 
+  // const arr=[1,2,[3,4],[5,6],7,8];
+ //  console.log(arr.flat(Infinity))
+//Recursion method 
+ // if(Array.isArray(arr)){
+  // return arr.reduce((acc,val)=>Array.isArray(val)
+   //               ?acc.concat(app(val)):acc.concat(val)
+     //              ,[]);
+      // } else{
+       // return arr;
+        // }
+ // third method is tricky 
+//  if(Array.isArray(arr))
+  //  {
+//   return arr.toString().split(",").map(Number)
+// } else{
+   //   return arr;
+  //  }
+//}
+//console.log("Number : ", typeof(app(1,2,3,4)))
+//console.log("Array : ",typeof(app([1,2,[3,4],[5,6],7,8])))
+//console.log("Array : ",app([1,2,[3,4],[5,6],7,8]))
+
