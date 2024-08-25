@@ -96,3 +96,23 @@ hu
 //console.log("Array : ",typeof(app([1,2,[3,4],[5,6],7,8])))
 //console.log("Array : ",app([1,2,[3,4],[5,6],7,8]))
 
+ // 7) Write a function to find the factorial of a number.
+// function app(num)
+ //{
+  // this method is use recursion 
+   //if(num===0||num===1)
+    // {
+    //   return 1;
+   //  } else
+    // {
+    //   return num*app(num-1)
+    // }
+
+   //Logical method 
+   // let res=1;
+   //for(let i=1;i<=num;i++)
+    // {
+     //  console.log(res =res*i)
+    // }
+// }
+//console.log(app(5))
