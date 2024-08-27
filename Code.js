@@ -116,3 +116,26 @@ hu
     // }
 // }
 //console.log(app(5))
+
+// 2) How would you check if a string is a palindrome?
+//function app(num)
+//{
+ // let org=num;
+ // let res=0;
+  //while(num>0)
+   // {
+   //   let a =num%10;
+      //console.log(a);
+      //num=parseInt(num/10);
+     //console.log(num)
+     // res=(res*10)+a
+  /)  }
+  //console.log(res)
+  //if(org===res)
+   // {
+      //console.log("This is a Palindrome Number : ",res)
+  //} else {
+     // console.log("This is a not palindrome Number: ",res)
+    //}
+//}
+//app(152)
