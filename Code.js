@@ -177,3 +177,26 @@
       //}
 ///}
 //app(7)
+
+// 11). Print all Prime Numbers 
+
+//function app(num)
+//{
+ // for(i=2;i<=num;i++)
+    //{
+      //for(j=2;j<=i;j++)
+        //{
+         // if(i%j==0)
+            //{
+             // break;
+           // }
+       // }
+    
+  //if(i===j)
+   // {
+      //console.log(i)
+   // }
+      //}
+  //console.log(i,j)
+//}
+//app(10)
