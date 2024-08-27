@@ -161,3 +161,19 @@
  // }
 //}
 //app(153)
+
+// 10) Even Odd number 
+//function app(num) {
+
+  //for(let i=1;i<=num;i++)
+    //{
+ // if(i%2==0)
+ // {
+   // console.log("Even Number : ", i)
+  //}else
+   // {
+      //console.log("Odd Number : " ,i)
+    //}
+      //}
+///}
+//app(7)
