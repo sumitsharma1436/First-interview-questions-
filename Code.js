@@ -1,4 +1,4 @@
-hu
+
 // 1) Write a function to reverse a string in JavaScript.
 
 // function app(str) {
