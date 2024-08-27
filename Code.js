@@ -117,7 +117,7 @@ hu
 // }
 //console.log(app(5))
 
-// 2) How would you check if a string is a palindrome?
+// 8) How would you check if a string is a palindrome?
 //function app(num)
 //{
  // let org=num;
