@@ -42,8 +42,7 @@
 //4) find the largest number in an array?
 //function app ()
 
-//{
-  const arr=[2,4,3,6]
+//{  const arr=[2,4,3,6]
 //  console.log(Math.min(...arr))
   // let res=arr.sort((a,b)=>a+b)
   // console.log(res[arr.length-1])
@@ -129,7 +128,7 @@
       //num=parseInt(num/10);
      //console.log(num)
      // res=(res*10)+a
-  /)  }
+  //)  }
   //console.log(res)
   //if(org===res)
    // {
@@ -200,3 +199,4 @@
   //console.log(i,j)
 //}
 //app(10)
+
