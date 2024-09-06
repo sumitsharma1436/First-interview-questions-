@@ -200,3 +200,14 @@
 //}
 //app(10)
 
+// What is callback function
+// function app(num,callback)
+// {
+  
+//   callback()
+//   return num*num;
+// }
+// const res= app(5,function(){
+//   console.log("Result : ")
+// })
+// console.log(res)
