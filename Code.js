@@ -211,3 +211,14 @@
 //   console.log("Result : ")
 // })
 // console.log(res)
+class app {
+  constructor(parameters) {
+    console.log(parameters)
+    this.h="Hello"
+  }
+  first(){
+    console.log(this.h)
+  }
+}
+const res=new app("Jai Shree Ram")
+ res.first()
