@@ -211,14 +211,37 @@
 //   console.log("Result : ")
 // })
 // console.log(res)
-class app {
-  constructor(parameters) {
-    console.log(parameters)
-    this.h="Hello"
-  }
-  first(){
-    console.log(this.h)
-  }
-}
-const res=new app("Jai Shree Ram")
- res.first()
+// class app {
+//   constructor(parameters) {
+//     console.log(parameters)
+//     this.h="Hello"
+//   }
+//   first(){
+//     console.log(this.h)
+//   }
+// }
+// const res=new app("Jai Shree Ram")
+//  res.first()
+// What is the difference between == and === operators in JavaScript?
+
+// function app(num,str)
+// {
+//   let double=num==str;
+//   let triple=num===str;
+//  console.log(double)
+//  console.log(triple)
+// }
+// app(5,"5")
+// What are closures in JavaScript?
+// Closures (closureFn) are functions that have access to variables from an outer function even after the outer function has finished executing. They “remember” the environment in which they were created.
+// function outer()
+// {
+//   let a="Hello";
+//   function inner()
+//   {
+// console.log(a);
+//   }
+//   return inner;
+// }
+// const app=outer()
+// app()
